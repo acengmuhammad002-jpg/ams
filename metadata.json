@@ -1,0 +1,6 @@
+{
+  "name": "Dart Berhadiah",
+  "description": "Game web interaktif lempar dart berhadiah untuk ice breaking, kelas, dan acara pembagian hadiah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
